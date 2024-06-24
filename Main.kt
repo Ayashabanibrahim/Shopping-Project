@@ -22,10 +22,7 @@ fun listOptionOwner(){
             "\n9:Delete My Account\n10:Go Back\n11:Finish Program")
     println1("Choose In Range 1:11 ")
 }
-fun isValidEmail(email: String): Boolean {
-    val emailRegex = Regex("^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\$")
-    return emailRegex.matches(email)
-}
+
 fun main() {
     println1("********************************************************************'Welcome For You In My Project'********************************************************************")
     var flagToFinish=true
