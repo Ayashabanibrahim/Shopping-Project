@@ -2,7 +2,7 @@
 # This Is My Obiect Oriented Programmin Project
 # It Allows You To Create Your Own Markets Or To Shopping From These Markets
 # This Project Is Simulation Of Online Shopping
-# I Coded This This Project Using Kotlin and Object Oriented I Learned
+# I Coded This Project Using Kotlin and Object Oriented I Learned
 # Features
 - Sign Up or Login As Owner Of Market
 - Create Market For You
