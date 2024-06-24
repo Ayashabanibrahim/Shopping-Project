@@ -8,7 +8,7 @@
 - Create Market For You
 - Add Products In Your Market
 - Delete Your Market
-- Print Dara Of Your Markets
+- Print Data Of Your Markets
 - Print Products In All Your Markets
 - Print What Products That It Finished In Your Markets
 - Print What Profit You Have
